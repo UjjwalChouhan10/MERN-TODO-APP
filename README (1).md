@@ -102,6 +102,4 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push your changes to your forked repository.
 5. Create a pull request to the main repository.
 
-## Issues
 
-If you encounter any issues or have any feature requests, please create an issue in the [Issues](https://github.com/shuvra-matrix/Task-Manager-MERN/issues) section of the repository.
